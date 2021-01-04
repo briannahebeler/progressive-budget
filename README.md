@@ -7,7 +7,6 @@ This MongoDB based application will allow users to add expenses and deposits to 
 When offline the users can enter deposits and expenses. When brought back online the users offline tracking will be added to the tracker. This offline functionality will allow the user access to their financial information anytime, anywhere. 
 
 ## Table of Contents  
-* [Installation](#installation)
 * [Usage](#usage)
 * [License](#license)
 * [Contributing](#contributing)
@@ -15,12 +14,8 @@ When offline the users can enter deposits and expenses. When brought back online
 * [Questions](#questions)
 * [Links](#links)
 
-## Installation
-add any installation instructions here
-
 ## Usage 
-![](./public/assets/images/#)
-add directions for usage here
+![](./public/assets/images/budgetScreenshot.png)
 
 ## License
 This project is licensed under the MIT license.
