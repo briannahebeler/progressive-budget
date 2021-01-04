@@ -2,7 +2,13 @@
 ![MIT](https://img.shields.io/badge/license-MIT-blueviolet)
 
 ## Description 
-add here
+This MongoDB based application will allow users to add expenses and deposits to their budget with or without an internet connection.
+
+When offline the users can enter deposits and expenses.
+
+When brought back online the users offline tracking will be added to the tracker.
+
+This offline functionality will allow the user access to their financial information anytime, anywhere. 
 
 ## Table of Contents  
 * [Installation](#installation)
