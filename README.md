@@ -10,7 +10,6 @@ When offline the users can enter deposits and expenses. When brought back online
 * [Usage](#usage)
 * [License](#license)
 * [Contributing](#contributing)
-* [Tests](#tests)
 * [Questions](#questions)
 * [Links](#links)
 
