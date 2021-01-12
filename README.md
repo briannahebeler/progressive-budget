@@ -16,6 +16,10 @@ When offline the users can enter deposits and expenses. When brought back online
 ## Usage 
 ![](./public/assets/images/budgetScreenshot.png)
 
+![](./public/assets/images/offlineEntering.png)
+![](./public/assets/images/enteredOffline.png)
+![](./public/assets/images/wentOnline.png)
+
 ## License
 This project is licensed under the MIT license.
 
