@@ -14,10 +14,14 @@ When offline the users can enter deposits and expenses. When brought back online
 * [Links](#links)
 
 ## Usage 
+To use the application, type in the name for your transaction and the amount of the transaction. Then press either the "Add Funds" or "Subtract Funds" button to add or subtract the amount of your transaction from your budget and to see the graph change with your newly entered data.
 ![](./public/assets/images/budgetScreenshot.png)
 
+When offline, continue to use the application as normal, your data will be stored locally and you can still see your entered data reflected in the application.
 ![](./public/assets/images/offlineEntering.png)
 ![](./public/assets/images/enteredOffline.png)
+
+When you go back online your entered transaction will be saved in the database.
 ![](./public/assets/images/wentOnline.png)
 
 ## License
